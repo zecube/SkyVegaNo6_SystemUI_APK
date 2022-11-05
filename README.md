@@ -1,9 +1,9 @@
 ## SkyVegaNo6_SystemUI_Reform
-This is a VEGA NO.6(IM-A860S) SystemUI Modified Version
+This is a VEGA NO.6(IM-A860S) SystemUI Modified Version.
 
 It was distributed in the SDA community(Sky Development Assistant).
 
-It was created in 2013 and **"Requires root permission"**
+It was created in 2013 and **"Requires root permission".**
 
 ---
 * Navigation Bar
@@ -24,7 +24,7 @@ _More simple bg, status(Even when it's closed) and navigation bar icons_
 
 ---
 
-Just change "SystemUI.apk" and "VegaHomeThemeClassic" in the existing Android path. **Access is only possible with root permission**
+Just change "SystemUI.apk" and "VegaHomeThemeClassic" in the existing Android path. **Access is only possible with root permission**.
 
 If you want to change to the leather texture(Navigation Bar) shown in the image above, download folder 'SystemUI', extract file 'ic_systembar.zip', and replace the image with the same name.
 
